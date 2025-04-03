@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-PrashantKumar
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Linux, MySQL and Python
+- 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me, Just think about me
 
 <!---
